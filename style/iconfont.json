@@ -1,0 +1,30 @@
+{
+  "id": "1884560",
+  "name": "杭电助手",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4255102",
+      "name": "省略",
+      "font_class": "shenglve",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13801158",
+      "name": "短箭头",
+      "font_class": "duanjiantou-copy",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "11410901",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+body{
+  margin:0;
+  font-size:62.5%;
+  background: #e9e9e9;
+}
+.header{
+  line-height: 4rem;
+  height: 4rem;  
+  font-size:1.1rem;
+  text-align: center;
+  font-weight: bold;
+  padding:0 .6rem;
+  background: #fff;
+}
+.header-left{
+  float:left
+}
+.header-right{
+  float:right
+}
+.container-top{
+  height:10rem;
+  background: #3699dc;
+  position:relative;
+  color:white;
+}
+.icon-duanjiantou-copy{
+  position: absolute;
+  font-size:1.8rem;
+  top:0.7rem
+}
+.top-title{
+  font-size:1.3rem;
+  position: absolute;
+  top:5rem
+}
+.top-float{
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+  height:6rem;
+  width:95%;
+  border:1px solid;
+  background: #fff;
+  border-radius:.3rem;
+  top:7.5rem
+}
+.top-float .top-title{
+  color:#3699dc;
+  position:absolute;
+  top:1.5rem;
+  left:50%;
+  transform: translateX(-50%);
+  font-weight: 530;
+}
+.top-float .top-desc{
+  color:black;
+  position: absolute;
+  top:3rem;
+  font-size:1rem;
+  left:1.5rem;
+}
+.container-qrcode{
+  position: relative;
+  left:50%;
+  transform: translateX(-50%);
+  height:16rem;
+  width:94%;
+  border:1px solid white;
+  background: #fff;
+  border-radius:.3rem;
+  top:4.5rem
+}
+.qr-content{
+  width:50%;
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+  top:1.8rem
+}
+.qr-time{
+  font-size:1rem;
+  position: absolute;
+  top:13.5rem;
+  left:50%;
+  transform: translateX(-50%);
+  width: 90%;
+  text-align: center;
+}
+.container-stuinfo{
+  position: relative;
+  left:50%;
+  transform: translateX(-50%);
+  height:16rem;
+  width:94%;
+  
+  border-radius:.25rem;
+  top:5.5rem
+}
+.stuinfo-item{
+  background: #fff;
+  border:1px solid white;
+  margin-bottom:.2rem;
+  height:3rem;
+  line-height: 3rem;
+}
+.stuinfo-item .info-title{
+  font-size:1.1rem;
+  font-weight: bold;
+  font-family: "STXihei";
+  padding-left:1.5rem;
+}
+.stuinfo-item .info-content{
+  height:2.7rem;
+  width:70%;
+  margin-left:1.5rem;
+  display:inline-block;
+  border:none;
+  outline: 0;
+  font-size:1rem;
+  text-align: right;
+}
